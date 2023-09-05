@@ -1,0 +1,616 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #B4E9F3;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: #52B38F;
+}
+.intro{
+    height: 100vh;
+    width:100vw ;
+    display: flex;
+    justify-content: center;
+    
+}
+.cloud1{
+    margin-left: 309px;
+    position: relative;
+    top: -34px;
+}
+.cloud4{*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #B4E9F3;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: #52B38F;
+}
+.intro{
+    height: 100vh;
+    width:100vw ;
+    display: flex;
+    justify-content: center;
+    
+}
+.cloud1{
+    margin-left: 309px;
+    position: relative;
+    top: 0px;
+}
+.cloud4{
+    position: relative;
+    top: -54px;
+    margin-right: 350px;
+    margin-left: 200px;
+}
+.cloud3{
+    position: relative;
+    margin-left: 10px;
+    top: -133px;
+}
+.cloud2{
+    position: relative;
+    margin-left: 671px;
+    top: -135px;
+}
+.intro{
+    display: block;
+    margin-left: 548px;
+    margin-top: -278px;
+
+}
+.intro img{
+    height: 398px;
+    width: 536px;
+    margin-left: -305px;
+}
+.intro h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 66px;
+    margin-left: -180px;
+}
+.intro h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    margin-left: 69px;
+}
+
+.hrdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -104px;
+    padding-top: -178px;
+    margin-top: -65px;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 135px;
+    border-color: #444444;
+    width: 60%;
+}
+.introduct{
+    display: flex;
+    padding-top: 151px;
+}
+.introduct img{
+    height: 135px;
+    margin-left: 305px;
+}
+.introduct p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.hrdiv2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -104px;
+    padding-top: -178px;
+    margin-top: 22px;
+}
+.skills1{
+    display: block;
+    padding-top: 151px;
+}
+.flex img{
+    height: 135px;
+    margin-left: 555px;
+}
+.hrdiv3{
+    margin-left: 518px;
+}
+.flex{
+    display: flex;
+    position: relative;
+    right: 60px;
+}
+.flex
+.skills1 h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    margin-left: 727px;
+    padding-bottom: 10px;
+}
+.flex p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.flex2{
+    display: flex;
+}
+.flex2 img{
+    height: 135px;
+    
+}
+.flex2 p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    margin-left: 355px;
+    margin-top: 50px;
+}
+.left{
+    width: 40%;
+    
+}
+.right{
+    width: 60%;
+    
+}
+.left2{
+    width: 40%;
+}
+.right2{
+    width: 60%;
+}
+.flex2 img{
+    padding-top: 15px;
+}
+.flex img{
+    padding-top: 31px;
+    margin-left: 320px;
+}
+.skills1 img:hover{
+    height: 145px;
+    transition-duration: 1s;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar img{
+    height: 35px;
+    padding-top: 5px;
+    margin: 8px;
+}
+.navbar img:hover{
+    height:40px ;
+    transition: 1ms;
+}
+@media only screen and ( max-width:500px ) {
+    .cloud1{
+        margin-left: 200px;
+        position : relative;
+        top : -54px;
+    }
+    .cloud4{
+        position: relative;
+        top: -154px;
+        margin-right: 35opx;
+        margin-left: -16px;
+    }
+    .cloud3{
+        position: relative;
+        margin-left: 10px;
+        top: -182px
+    }
+    .cloud2{
+        position: relative;
+        margin-left: 371px;
+        top: 26px;
+        display: none;
+    }
+    .intro{
+        display: block;
+        margin-left: -30px;
+        margin-top: -278px;
+    
+    }
+    .intro img{
+        height: 229px;
+        width: 383px;
+        margin-left: 21px;
+        
+    }
+    .intro h1{
+        font-family: 'Dancing Script', cursive;
+        font-size: 31px;
+        margin-left: 159px;
+    }
+    .intro h2{
+        font-family: 'Dancing Script', cursive;
+        font-size: 32px;
+        margin-left: 138px;
+    }
+    .hrdiv{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: -132px;
+        margin-top: -65px;
+        margin-left: -19%;
+    }
+    .introduct{
+        display: flex;
+        padding-top: 151px;
+     }
+     .introduct img{
+        height: 95px;
+        margin-left: 15px;
+     }
+     .introduct p{
+        font-family: 'Dancing Script', cursive;
+        font-size: 16px;
+        padding-top: 31px;
+     }
+     .hrdiv2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: -246px;
+        margin-top: 22px;
+        margin-left: -82px;
+    }
+    .skills1 h2{
+        font-family: 'Dancing Script', cursive;
+        font-size: 28px;
+        margin-left: 155px;
+        padding-bottom: 10px;
+        margin-top: 99px;
+        }
+        .flex img{
+            height: 88px;
+            margin-left: 305px;
+        }
+        .flex p{
+        font-family: 'Dancing Script', cursive;
+        font-size: 17px;
+        padding-top: 24px;
+    }
+    .hrdiv3{
+        margin-left: 24px;
+        padding-top: 11px;
+    }
+    .flex2{
+    display: flex;
+}
+.flex2 img{
+    height: 93px;
+    
+}
+.flex2 p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 17px;
+    margin-left: 24px;
+    margin-top: 29px;
+}
+.left{
+    width: 4%;
+}
+.right{
+    width: 64%;
+    
+}
+.left2{
+    width: -2%;
+}
+.right2{
+    width: 70%;
+}
+.flex2 img{
+    padding-top: 15px;
+}
+.flex img{
+    padding-top: 31px;
+    margin-left: 320px;
+}
+}
+meta {}
+    position: relative;
+    top: -54px;
+    margin-right: 350px;
+    margin-left: 209px;
+}
+.cloud3{
+    position: relative;
+    margin-left: 10px;
+    top: -133px;
+}
+.cloud2{
+    position: relative;
+    margin-left: 371px;
+    top: -126px;
+}
+.intro{
+    display: block;
+    margin-left: 548px;
+    margin-top: -278px;
+
+}
+.intro img{
+    height: 398px;
+    width: 536px;
+    margin-left: -38px;
+    
+}
+.intro h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 66px;
+    margin-left: 66px;
+}
+.intro h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    margin-left: 69px;
+}
+.hrdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -104px;
+    padding-top: -178px;
+    margin-top: -65px;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #444444;
+    width: 60%;
+}
+.introduct{
+   display: flex;
+    padding-top: 151px;
+}
+.introduct img{
+    height: 135px;
+    margin-left: 305px;
+}
+.introduct p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.hrdiv2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -104px;
+    padding-top: -178px;
+    margin-top: 22px;
+}
+.skills1{
+    display: block;
+    padding-top: 151px;
+}
+.flex img{
+    height: 135px;
+    margin-left: 555px;
+}
+.hrdiv3{
+    margin-left: 518px;
+}
+.flex{
+    display: flex;
+    position: relative;
+    right: 60px;
+}
+.flex
+.skills1 h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    margin-left: 727px;
+   padding-bottom: 10px;
+}
+.flex p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.flex2{
+    display: flex;
+}
+.flex2 img{
+    height: 135px;
+    
+}
+.flex2 p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    margin-left: 355px;
+    margin-top: 50px;
+}
+.left{
+    width: 33%;
+    
+}
+.right{
+    width: 43%;
+    
+}
+.left2{
+    width: 151%;
+}
+.right2{
+    width: 70%;
+}
+.flex2 img{
+    padding-top: 15px;
+}
+.flex img{
+    padding-top: 31px;
+    margin-left: 320px;
+}
+.skills1 img:hover{
+    height: 145px;
+    transition-duration: 1s;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar img{
+    height: 35px;
+    padding-top: 5px;
+    margin: 8px;
+}
+.navbar img:hover{
+    height:40px ;
+    transition: 1ms;
+}
+@media only screen and ( max-width:500px ) {
+    .cloud1{
+        margin-left: 200px;
+        position : relative;
+        top : -54px;
+    }
+    .cloud4{
+        position: relative;
+        top: -154px;
+        margin-right: 35opx;
+        margin-left: -16px;
+    }
+    .cloud3{
+        position: relative;
+    margin-left: 10px;
+    top: -182px
+    }
+    .cloud2{
+        position: relative;
+        margin-left: 371px;
+        top: 26px;
+        display: none;
+    }
+    .intro{
+        display: block;
+        margin-left: -30px;
+        margin-top: -278px;
+    
+    }
+    .intro img{
+        height: 229px;
+        width: 383px;
+        margin-left: 21px;
+        
+    }
+    .intro h1{
+        font-family: 'Dancing Script', cursive;
+        font-size: 31px;
+        margin-left: 159px;
+    }
+    .intro h2{
+        font-family: 'Dancing Script', cursive;
+        font-size: 32px;
+        margin-left: 138px;
+    }
+    .hrdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -132px;
+    margin-top: -65px;
+    margin-left: -19%;
+    }
+    .introduct{
+        display: flex;
+        padding-top: 151px;
+     }
+     .introduct img{
+        height: 95px;
+        margin-left: 15px;
+     }
+     .introduct p{
+        font-family: 'Dancing Script', cursive;
+        font-size: 16px;
+        padding-top: 31px;
+     }
+     .hrdiv2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: -246px;
+        margin-top: 22px;
+        margin-left: -82px;
+    }
+    .skills1 h2{
+        font-family: 'Dancing Script', cursive;
+        font-size: 28px;
+        margin-left: 155px;
+        padding-bottom: 10px;
+        margin-top: 99px;
+        }
+        .flex img{
+        height: 88px;
+        margin-left: 305px;
+        }
+        .flex p{
+        font-family: 'Dancing Script', cursive;
+        font-size: 17px;
+        padding-top: 24px;
+    }
+    .hrdiv3{
+        margin-left: 24px;
+        padding-top: 11px;
+    }
+    .flex2{
+    display: flex;
+}
+.flex2 img{
+    height: 93px;
+    
+}
+.flex2 p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 17px;
+    margin-left: 24px;
+    margin-top: 29px;
+}
+.left{
+    width: 4%;
+}
+.right{
+    width: 64%;
+    
+}
+.left2{
+    width: -2%;
+}
+.right2{
+    width: 70%;
+}
+.flex2 img{
+    padding-top: 15px;
+}
+.flex img{
+    padding-top: 31px;
+    margin-left: 320px;
+}
+}
